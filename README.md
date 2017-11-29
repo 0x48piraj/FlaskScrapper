@@ -34,8 +34,13 @@
 
 
 ## How do I deploy Flask Web App with Heroku
-![Status](https://img.shields.io/badge/Status-In_Progress-blue.svg)
+![Status](https://img.shields.io/badge/Status-Live!-blue.svg)
 ![extra GCI](https://img.shields.io/badge/GCI-Optional_Task-brightgreen.svg)
+
+### Use the 1-click deployment button to deploy this Application :
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/0x48piraj/FOSSASIATask_FlaskAppForm)
+
 
 # Creative Creator
 
