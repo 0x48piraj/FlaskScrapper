@@ -34,8 +34,8 @@
 
 
 ## How do I deploy Flask Web App with Heroku
-
-
+![Status](https://img.shields.io/badge/Status-In_Progress-blue.svg)
+![extra GCI](https://img.shields.io/badge/GCI-Optional_Task-brightgreen.svg)
 
 # Creative Creator
 
