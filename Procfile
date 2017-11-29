@@ -1,1 +1,1 @@
-web gunicorn manage:app
+web: gunicorn -b :80 app:app
