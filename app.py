@@ -4,15 +4,10 @@ import sys
 import json
 import os
 import shutil
-from flask import Flask, render_template, flash, request
-from wtforms import Form, TextField, SubmitField 
 from os import path
 
-from flask import Flask, render_template, flash, request
-from wtforms import Form, TextField, SubmitField 
-from os import path
 
-#import urllib #deprecated in py3
+#import urllib #Deprecated in py3
 import urllib.request #now, it's good
 from bs4 import BeautifulSoup
 
