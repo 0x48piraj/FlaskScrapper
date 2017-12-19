@@ -1,4 +1,4 @@
-# FOSSASIA GCI Task: FlaskAppForm
+# Flask Scrapper v.01
 
 <img align="middle" src="/images/logo.PNG" alt="Logo">
 
