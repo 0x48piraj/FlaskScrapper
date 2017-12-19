@@ -1,6 +1,6 @@
 # FOSSASIA GCI Task: FlaskAppForm
 
-<img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-card.png" alt="Logo">
+<img align="middle" src="/images/logo.PNG" alt="Logo">
 
 > **Task Name: Flask/Python: Create a Flask app with a Simple Form ( FOSSASIA )**
 
