@@ -60,3 +60,8 @@
 > * **Star!**
 > * **Fork!**
 > * **Watch!**
+
+
+# License
+
+### [MIT](LICENSE)
