@@ -1,5 +1,7 @@
 # FOSSASIA GCI Task: FlaskAppForm
-![](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-card.png)
+
+<img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-card.png" alt="Logo">
+
 > **Task Name: Flask/Python: Create a Flask app with a Simple Form ( FOSSASIA )**
 
  # Live Demo!
