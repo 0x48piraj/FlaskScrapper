@@ -1,5 +1,8 @@
 # Flask Scrapper v.01
 
+[![HitCount](http://hits.dwyl.io/0x48piraj/FOSSASIATask_FlaskAppForm.svg)](http://hits.dwyl.io/0x48piraj/FOSSASIATask_FlaskAppForm)
+
+
 <img align="middle" src="/images/logo.PNG" alt="Logo">
 
 > **Task Name: Flask/Python: Create a Flask app with a Simple Form ( FOSSASIA )**
